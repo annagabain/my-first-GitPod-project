@@ -4,10 +4,12 @@ To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the ter
 
 `python3 -m http.server`
 
-<a href="https://annagabain.github.io/my-first-GitPod-project/index.html" target="_blank">  
-<img src="https://raw.githubusercontent.com/annagabain/my-first-GitPod-project/main/firstgitpod.png">
-</a>
-
 ## GitHub Pages (Live)
 
 https://annagabain.github.io/my-first-GitPod-project/index.html
+
+
+
+<a href="https://annagabain.github.io/my-first-GitPod-project/index.html" target="_blank">  
+<img src="https://raw.githubusercontent.com/annagabain/my-first-GitPod-project/main/firstgitpod.png">
+</a>
