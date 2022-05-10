@@ -6,7 +6,7 @@ To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the ter
 
 ## GitHub Pages (Live)
 
-[Clicke here to view the project](https://annagabain.github.io/my-first-GitPod-project/index.html)
+[View the live project here](https://annagabain.github.io/my-first-GitPod-project/index.html)
 
 
 
